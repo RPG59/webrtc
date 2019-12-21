@@ -8,3 +8,5 @@ document.querySelector('#start').addEventListener('click', e => {
         videoEl.play();
     }, () => { })
 })
+
+console.log('test1')
